@@ -21,7 +21,7 @@ Nome: lisp
 Data De Criacao: 1958
 Exemplo:</code> <br><code>  (print "Hello, World!") </code>
     
-- # Usando o codigos.txt na Pasta bin/ separados por linha: <br>
+- # Usando o codigos.config na Pasta bin/ separados por linha: <br>
   - <code> Ex: fortran;1957;PROGRAM HelloWorld\n  PRINT *, "Hello, World!" \nEND PROGRAM HelloWorld| </code>  <br> Sendo:<br> <code>"fortran;</code>": O Nome Da Linguagem <br>
   - <code>"1957;"</code>: A Data De Criacao<br>
   - <code>"PROGRAM HelloWorld\n  PRINT *, "Hello, World!" \nEND PROGRAM HelloWorld|"</code>: Sendo o Exemplo do Codigo   
