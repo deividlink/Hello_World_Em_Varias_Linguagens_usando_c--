@@ -117,7 +117,7 @@ int main(){
         if(pesquisar(entrada) == 1000){
             atual = DESLIGADO;
         };
-        system("pause");
+        system("pause"); // Remover se Estiver Usando no Linux
 
     }while(atual == ATIVO);
     return 0;
